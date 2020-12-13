@@ -35,7 +35,7 @@ setuptools.setup(
     description="An easy implementation of genetic-algorithm (GA) to solve continuous and combinatorial optimization problems with real, integer, and mixed variables in Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/rmsolgi/geneticalgorithm",
+    url="https://github.com/lizhenzhupearl/geneticalgorithm",
     keywords=['solve', 'optimization', 'problem', 'genetic', 'algorithm', 'GA', 'easy', 'fast', 'genetic-algorithm', 'combinatorial', 'mixed', 'evolutionary'],
     packages=setuptools.find_packages(),
     classifiers=[
